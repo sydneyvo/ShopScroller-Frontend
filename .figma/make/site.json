@@ -1,0 +1,10 @@
+{
+  "description": "Discover personalized shopping recommendations with a swipe-based interface that helps users manage budgets, save favorites, and shop socially with friends.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
